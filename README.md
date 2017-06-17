@@ -1,3 +1,3 @@
 # AI.university
 
-Copyright 2017 AI.university℠. All rights reserved.
+Copyright 2016 AI.university℠. All rights reserved.
