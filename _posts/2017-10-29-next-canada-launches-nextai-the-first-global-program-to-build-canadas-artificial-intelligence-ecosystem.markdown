@@ -1,0 +1,17 @@
+---
+title: NEXT Canada Launches NextAI, the First Global Program to Build Canada's Artificial
+  Intelligence Ecosystem
+date: 2017-10-29 07:17:00 Z
+---
+
+Today NEXT Canada, a national non-profit organization committed to advancing Canadian entrepreneurship, announced the launch of NextAI, a program designed to bring together Canadian and international talent in the field of Artificial Intelligence (AI). By providing seed capital, expert advice, and sector-specific tools, program participants will be prepared to launch AI solutions in growing technology markets around the world. The program -- the first of its kind -- brings AI talent and entrepreneurs together with academic, corporate, and government partners to further position Canada as a leader in the global race to establish centres of excellence in the commercial application of AI.
+
+NextAI launches with partners in government and the private sector, including NEXT Canada's national partners EY, MasterCard, TD Group, and Osler, Hoskin & Harcourt. The program will provide access to technology platforms and organizational experts from a growing number of companies, including Google, Microsoft, and IBM. Teams will receive up to $200,000 in seed financing to develop their technology, and will also receive hands-on instruction from faculty at the University of Toronto, Georgetown University, University of Guelph, Massachusetts Institute of Technology, New York University, and Harvard University.
+
+"Canada has been at the forefront of artificial intelligence research for decades, and NEXT Canada has supported several AI-focused startups in past programs," said Graham Taylor, Academic Director at NextAI. "The launch of NextAI means we'll see the brightest minds from around the world creating industry-leading AI technology in Canada, cementing our place as a world leader in machine learning innovation."
+NextAI will run annually from February to September, recruiting up to 20 teams from graduate and undergraduate programs at top Canadian and international universities as well as industry professionals. The program will culminate in an AI Demo Day. NextAI applications are open today until January 5, 2017, and the program officially kicks off February 1, 2017.
+
+"Canada is the perfect place to shine a light on AI technology since we have the right combination of researchers, companies, and entrepreneurs who are already investing heavily in the space," said Sam Sebastian, Vice President and Country Director for Google Canada. "This is a win-win for anyone who believes in the potential of AI -- it means state-of-the-art AI technology will be developed in our backyard and deployed to solve commercially and socially important problems."
+This is NEXT Canada's third program devoted to helping young entrepreneurs succeed, and hundreds of entrepreneurs to date have participated in the Next 36 and Next Founders programs. NEXT Canada counts several AI and machine learning companies among its alumni, including Blue J Legal and Atomwise.
+
+The program was officially announced on stage at today's Rotman School of Management Machine Learning conference, which featured opening remarks from astronaut Chris Hadfield, a keynote by the Chair of President Obama's Council of Economic Advisors who described the White House's position on AI, presentations from some of the most influential pioneers in machine learning, and insights from investors focused on AI at top Silicon Valley-based VC firms including DFJ, DCVC, Andreessen Horowitz, and Kleiner Perkins.
