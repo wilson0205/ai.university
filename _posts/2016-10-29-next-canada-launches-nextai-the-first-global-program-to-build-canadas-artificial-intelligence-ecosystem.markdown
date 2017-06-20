@@ -1,7 +1,7 @@
 ---
 title: NEXT Canada Launches NextAI, the First Global Program to Build Canada's Artificial
   Intelligence Ecosystem
-date: 2017-10-29 07:17:00 Z
+date: 2016-10-29 07:17:00 Z
 ---
 
 Today NEXT Canada, a national non-profit organization committed to advancing Canadian entrepreneurship, announced the launch of NextAI, a program designed to bring together Canadian and international talent in the field of Artificial Intelligence (AI). By providing seed capital, expert advice, and sector-specific tools, program participants will be prepared to launch AI solutions in growing technology markets around the world. The program -- the first of its kind -- brings AI talent and entrepreneurs together with academic, corporate, and government partners to further position Canada as a leader in the global race to establish centres of excellence in the commercial application of AI.
