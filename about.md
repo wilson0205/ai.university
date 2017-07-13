@@ -5,4 +5,6 @@ layout: page
 tags: about
 ---
 
+Blog
+
 Copyright 2016 AI.university℠. All rights reserved.
